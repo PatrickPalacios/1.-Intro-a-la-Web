@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(61, 53, 53);
+}
+
+h1{
+    color: blueviolet;
+}
+
+.btn{
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.btn-red{
+    background-color: tomato;
+}
+.btn-choco{
+    background-color: rgb(219, 128, 63);
+}
+.btn-vainilla{
+    background-color: rgb(190, 190, 152);
+}
+
+#titulo-3{
+    font-size: 3rem;
+    text-decoration: underline;
+    font-family: "Pacifico", serif;
+}
